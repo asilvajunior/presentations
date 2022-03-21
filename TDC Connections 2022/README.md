@@ -23,7 +23,7 @@
 
 ### 💬 Conteúdo
 
-- 💻 [Slides](https://github.com/asilvajunior/palestras/blob/main/TDC%20Connections%202022/TDC22%20-%20Entregando%20Projetos%20em%20Cloud%20Like%20a%20Boss.pdf) 
+- 💻 [Slides](/TDC%20Connections%202022/TDC22%20-%20Entregando%20Projetos%20em%20Cloud%20Like%20a%20Boss.pdf) 
 - 📹 [Vídeo](https://www.youtube.com/channel/UCYpdjQbbkBQpDWI1rapkVUA)
 
 ### 🔗 Links
