@@ -7,10 +7,11 @@
 
 ### 🎤 **Palestrantes**
 
-**Nome:** Antonio Junior
-**Contato:** asilva@unicast.com.br
-**Título:**  Entregando projetos em cloud, Like a Boss!
-**Resumo da apresentação:** 
+- **Nome:** Antonio Junior
+- **Contato:** asilva@unicast.com.br
+- **Título:** Entregando projetos em cloud, Like a Boss!
+
+#### **Resumo da apresentação:** 
 
 
 > O mercado de tecnologia cresce em ritmo acelerado, e à medida que as empresas aumentam seu consumo em serviços de nuvem, a demanda de profissionais qualificados é cada vez maior.
