@@ -30,4 +30,4 @@ A repository to store and share the code and slides from the various presentatio
     
 ## :memo: License
 
-This project is under [License MIT](./LICENSE).
+This project is under [MIT License](./LICENSE).
