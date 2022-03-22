@@ -4,7 +4,7 @@
 
 # Code and slides from my Presentations
 
-A repository to store and share the code and slides from the various presentations that I've given..
+A repository to store and share the code and slides from the various presentations that I've given.
 
 <div> 
   <a href="https://www.linkedin.com/in/antoniocarlosjr" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=fflat&logo=linkedin&logoColor=white" target="_blank"></a>
