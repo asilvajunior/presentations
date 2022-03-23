@@ -2,7 +2,7 @@
 <img src="assets/images/unicast_logo.png">
 </p>
 
-# Code and slides from my Presentations
+# Code and slides from my presentations
 
 A repository to store and share the code and slides from the various presentations that I've given.
 
@@ -18,7 +18,7 @@ A repository to store and share the code and slides from the various presentatio
     
 ### 2022
 
-- [TDC Connectins 2022 - Entregando projetos em cloud, Like a Boss!](TDC%20Connections%202022/README.md)
+- [TDC Connections 2022 - Entregando projetos em cloud, Like a Boss!](TDC%20Connections%202022/README.md)
 
 ## :movie_camera: Other Videos
 
