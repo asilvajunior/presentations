@@ -20,3 +20,13 @@
 ### 💬 Conteúdo
 
 - 💻 [Slides](/XIV%20Semana%20da%20Inform%C3%A1tica%20UEMG%202019/Um%20ISP%20para%20chamar%20de%20seu.pdf) 
+
+### 🔗 Links
+
+- [NIC.BR](https://nic.br/)
+- [IPV6.BR](http://ipv6.br/)
+- [IX.BR](https://ix.br/)
+- [Registro.BR](https://registro.br/)
+- [Internet World Stats](https://www.internetworldstats.com/)
+- [Submarine Cable Map](https://www.submarinecablemap.com/)
+- [Eve-NG](https://www.eve-ng.net/)
