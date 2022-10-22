@@ -18,7 +18,8 @@ A repository to store and share the code and slides from the various presentatio
     
 ### 2022
 
-- [TDC Connections 2022 - Entregando projetos em cloud, Like a Boss!](TDC%20Connections%202022/README.md)
+- [TDC Connections - Entregando projetos em cloud, Like a Boss!](TDC%20Connections%202022/README.md)
+- [TDC Future - CAF - Cloud Adoption Framework a bússola do arquiteto Azure](TDC%Future%202022/README.md)
 
 ### 2019
 
