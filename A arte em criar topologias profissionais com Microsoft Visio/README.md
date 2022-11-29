@@ -24,7 +24,7 @@
 
 ### 💬 Conteúdo
 
-- 💻 [Slides]() 
+- 💻 [Slides](A%20arte%20em%20criar%20topologias%20profissionais%20com%20Microsoft%20Visio/A%20arte%20em%20criar%20topologias%20profissionais%20com%20Microsoft%20Visio.pdf) 
 - 📹 [Vídeo](https://www.youtube.com/watch?v=4qfVLyuKNe0)
 
 ### 🔗 Links
@@ -34,4 +34,4 @@
 
 ### ⚒️ Ferramentas
 
-- [Template Visio](https://aka.ms/thereview)
+- [Template Visio](A%20arte%20em%20criar%20topologias%20profissionais%20com%20Microsoft%20Visio/samples/Hands-on%20-%20Microsoft%20Visio.vsdx)
