@@ -30,6 +30,8 @@ A repository to store and share the code and slides from the various presentatio
 
 ### 2022
 
+- [Mentoria de Carreira (Canal da Cloud) - A arte em criar topologias profissionais com Microsoft Visio](TDC%Future%202022/README.md)
+
 ## :clapper: Podcasts
 
 ### 2022
