@@ -35,3 +35,4 @@
 ### ⚒️ Ferramentas
 
 - [Template Visio](/A%20arte%20em%20criar%20topologias%20profissionais%20com%20Microsoft%20Visio/samples/Hands-on%20-%20Microsoft%20Visio.vsdx)
+- [Azure Visio Shapes]()
