@@ -18,7 +18,7 @@
 
 ### 💬 Conteúdo
 
-- 💻 [Slides]() 
+- 💻 [Slides](/TDC%20Future%202022/TDC%20Future%20-%20CAF%20-%20Cloud%20Adoption%20Framework%20a%20bússola%20do%20arquiteto%20Azure.pdf) 
 - 📹 [Vídeo](https://www.youtube.com/channel/UCYpdjQbbkBQpDWI1rapkVUA)
 
 ### 🔗 Links
