@@ -17,7 +17,7 @@
 
 ### 💬 Conteúdo
 
-- 💻 [Slides]() 
+- 💻 [Slides](/Azure%20Kubernetes%20Services%20-%20Fundamentos%20Básicos/Azure%20Kubernetes%20Services%20-%20Fundamentos%20Básicos.pdf) 
 - 📹 [Vídeo](https://www.youtube.com/watch?v=y9TlYoa-lZ8)
 
 ### 🔗 Links
