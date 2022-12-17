@@ -22,7 +22,7 @@ A repository to store and share the code and slides from the various presentatio
 - [TDC Connections - Entregando projetos em cloud, Like a Boss!](TDC%20Connections%202022/README.md)
 - [TDC Future - CAF - Cloud Adoption Framework a bússola do arquiteto Azure](TDC%20Future%202022/README.md)
 - [Mentoria de Carreira (Canal da Cloud) - A arte em criar topologias profissionais com Microsoft Visio](A%20arte%20em%20criar%20topologias%20profissionais%20com%20Microsoft%20Visio/README.md)
-- [Mentoria de Carreira (Canal da Cloud) - Azure Kubernetes Services - Fundamentos Básicos]()
+- [Mentoria de Carreira (Canal da Cloud) - Azure Kubernetes Services - Fundamentos Básicos](Azure%20Kubernetes%20Services%20-%20Fundamentos%20Básicos)
 
 ### 2019
 
