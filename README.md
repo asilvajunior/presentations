@@ -16,7 +16,11 @@ A repository to store and share the code and slides from the various presentatio
 </div>
     
 ## :speaker: Presentations
-    
+
+### 2023
+
+- [Mentoria de Carreira (Canal da Cloud) - Como configuro meu VS Code para DevOps]()
+
 ### 2022
 
 - [TDC Connections - Entregando projetos em cloud, Like a Boss!](TDC%20Connections%202022/README.md)
@@ -30,12 +34,8 @@ A repository to store and share the code and slides from the various presentatio
 
 ## :movie_camera: Other Videos
 
-### 2022
-
 ## :clapper: Podcasts
 
-### 2022
-    
 ## :memo: License
 
 This project is under [MIT License](./LICENSE).
