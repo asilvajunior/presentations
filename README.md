@@ -19,13 +19,13 @@ A repository to store and share the code and slides from the various presentatio
 
 ### 2023
 
-- [Mentoria de Carreira (Canal da Cloud) - Como configuro meu VS Code para DevOps]()
+- [Mentoria de Carreira (Canal da Cloud) - Como configuro meu VS Code para DevOps](Como%20configuro%20meu%20VS%20code%20para%20DevOps)
 
 ### 2022
 
-- [TDC Connections - Entregando projetos em cloud, Like a Boss!](TDC%20Connections%202022/README.md)
-- [TDC Future - CAF - Cloud Adoption Framework a bússola do arquiteto Azure](TDC%20Future%202022/README.md)
-- [Mentoria de Carreira (Canal da Cloud) - A arte em criar topologias profissionais com Microsoft Visio](A%20arte%20em%20criar%20topologias%20profissionais%20com%20Microsoft%20Visio/README.md)
+- [TDC Connections - Entregando projetos em cloud, Like a Boss!](TDC%20Connections%202022)
+- [TDC Future - CAF - Cloud Adoption Framework a bússola do arquiteto Azure](TDC%20Future%202022)
+- [Mentoria de Carreira (Canal da Cloud) - A arte em criar topologias profissionais com Microsoft Visio](A%20arte%20em%20criar%20topologias%20profissionais%20com%20Microsoft%20Visio)
 - [Mentoria de Carreira (Canal da Cloud) - Azure Kubernetes Services - Fundamentos Básicos](Azure%20Kubernetes%20Services%20-%20Fundamentos%20Básicos)
 
 ### 2019
