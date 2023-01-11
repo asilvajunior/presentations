@@ -18,13 +18,24 @@
 
 ### 💬 Conteúdo
 
-- 💻 [Slides]() 
 - 📹 [Vídeo](https://www.youtube.com/watch?v=RGzUU9RuSXU)
 
 ### 🔗 Links
 
 - [Visual Studio Code](https://code.visualstudio.com/download)
 - [Docker Desktop](https://www.docker.com/products/docker-desktop/)
+- [GIT](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
+- [GitHub](https://desktop.github.com/)
+- [Terraform](https://developer.hashicorp.com/terraform/tutorials/aws-get-started/install-cli)
+- [Terraform-docs](https://terraform-docs.io/user-guide/installation/)
+- [kubectl Cheat Sheet](https://kubernetes.io/docs/reference/kubectl/cheatsheet/)
+- [Sublime Text](https://www.sublimetext.com/3)
+- [Notepad++](https://notepad-plus-plus.org/downloads/)
+- [Oh My Posh](https://ohmyposh.dev/)
+- [Oh My ZSH](https://ohmyz.sh/)
+- [iTerm2](https://iterm2.com/downloads.html)
+- [WSL2](https://learn.microsoft.com/en-us/windows/wsl/install)
+- [Dracula Theme](https://draculatheme.com/)
 
 ### ⚒️ Ferramentas
 
