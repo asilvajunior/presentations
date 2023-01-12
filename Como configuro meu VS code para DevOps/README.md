@@ -36,6 +36,8 @@
 - [iTerm2](https://iterm2.com/downloads.html)
 - [WSL2](https://learn.microsoft.com/en-us/windows/wsl/install)
 - [Dracula Theme](https://draculatheme.com/)
+- [Visio](https://www.microsoft.com/pt-br/microsoft-365/visio/flowchart-software)
+- [draw.io](https://www.draw.io/)
 
 ### ⚒️ Ferramentas
 
