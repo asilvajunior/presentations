@@ -32,10 +32,6 @@ A repository to store and share the code and slides from the various presentatio
 
 - [XIX Semana da Informática UEMG - Um ISP para chamar de seu!](XIV%20Semana%20da%20Inform%C3%A1tica%20UEMG%202019/README.md)
 
-## :movie_camera: Other Videos
-
-## :clapper: Podcasts
-
 ## :memo: License
 
 This project is under [MIT License](./LICENSE).
