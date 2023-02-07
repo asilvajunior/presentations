@@ -20,6 +20,7 @@ A repository to store and share the code and slides from the various presentatio
 ### 2023
 
 - [Mentoria de Carreira (Canal da Cloud) - Como configuro meu VS Code para DevOps](Como%20configuro%20meu%20VS%20code%20para%20DevOps)
+- [Mentoria de Carreira (Canal da Cloud) - Treinamento Oficial AZ-104 (EP2)](https://www.youtube.com/watch?v=8ATiFpwkUhc)
 
 ### 2022
 
