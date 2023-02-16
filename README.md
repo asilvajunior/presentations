@@ -23,6 +23,7 @@ A repository to store and share the code and slides from the various presentatio
 - [Mentoria de Carreira (Canal da Cloud) - Treinamento Oficial AZ-104 (EP2)](https://www.youtube.com/watch?v=8ATiFpwkUhc)
 - [Mentoria de Carreira (Canal da Cloud) - Treinamento Oficial AZ-104 (EP3)](https://www.youtube.com/watch?v=qWhdioh9kw4)
 - [Mentoria de Carreira (Canal da Cloud) - Treinamento Oficial AZ-104 (EP4)](https://www.youtube.com/watch?v=_OfZiOFokKs)
+- [Mentoria de Carreira (Canal da Cloud) - Treinamento Oficial AZ-305 (EP4)](https://www.youtube.com/watch?v=jF60ge7XUsE)
 
 ### 2022
 
