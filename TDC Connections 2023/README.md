@@ -19,7 +19,7 @@
 
 ### 💬 Conteúdo
 
-- 💻 [Slides]() 
+- 💻 [Slides](/TDC%20Connections%202023/TDC%20Connections%202023%20-%20Quando%20e%20quando%20não%20utilizar%20Kubernetes.pdf) 
 
 ### 🔗 Links
 
