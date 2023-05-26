@@ -17,7 +17,7 @@
 
 ### 💬 Conteúdo
 
-- 💻 [Slides](/TDC%20Connections%202023/TDC%20Connections%202023%20-%20Quando%20e%20quando%20não%20utilizar%20Kubernetes.pdf) 
+- 💻 [Slides](/TDC%20Innovation%202023/TDC%20Innovation%202023%20-%20Sindrome%20de%20FOMO.pdf) 
 
 ### 🔗 Links
 
