@@ -10,6 +10,7 @@
 - **Nome:** Antonio Junior
 - **Contato:** asilva@unicast.com.br
 - **Título:** CAF - Cloud Adoption Framework a bússola do arquiteto Azure
+- **Trilha:** Cloud
 
 #### **Resumo da apresentação:** 
 

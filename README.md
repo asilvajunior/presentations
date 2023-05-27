@@ -19,6 +19,7 @@ A repository to store and share the code and slides from the various presentatio
 
 ### 2023
 
+- [TDC Innovation - Como trabalhar com múltiplos ambientes no Terraform](TDC%20Innovation%202023)
 - [TDC Innovation - Sindrome de FOMO (Fear of missing out) na TI](TDC%20Innovation%202023)
 - [TDC Connections - Quando (e quando não) utilizar Kubernetes](TDC%20Connections%202023)
 - [Mentoria de Carreira (Canal da Cloud) - Treinamento Oficial AZ-305 (EP4)](https://www.youtube.com/watch?v=cougpafMcV4)

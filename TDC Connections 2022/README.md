@@ -10,6 +10,7 @@
 - **Nome:** Antonio Junior
 - **Contato:** asilva@unicast.com.br
 - **Título:** Entregando projetos em cloud, Like a Boss!
+- **Trilha:** Cloud
 
 #### **Resumo da apresentação:** 
 

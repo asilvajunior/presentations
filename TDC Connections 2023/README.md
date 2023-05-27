@@ -10,6 +10,7 @@
 - **Nome:** Antonio Junior
 - **Contato:** asilva@unicast.com.br
 - **Título:** Quando (e quando não) utilizar Kubernetes
+- **Trilha:** DevOps
 
 #### **Resumo da apresentação:** 
 
