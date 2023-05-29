@@ -14,7 +14,7 @@
 
 #### **Resumo da apresentação:** 
 
->Você sabe o que é FOMO? Já se sentiu pressionado a estar sempre atualizado com as últimas tecnologias e tendências na área de TI? Na nossa palestra, vamos explorar a Síndrome de FOMO na TI e seus efeitos na saúde mental e profissional dos profissionais de TI.ifica que você não deva usá-lo. A verdadeira chave para tirar o máximo proveito do Kubernetes é filtrar o hype e entender o que ele realmente faz e o que não faz. 
+>Você sabe o que é FOMO? Já se sentiu pressionado a estar sempre atualizado com as últimas tecnologias e tendências na área de TI? Na nossa palestra, vamos explorar a Síndrome de FOMO na TI e seus efeitos na saúde mental e profissional dos profissionais de TI.
 
 ### 💬 Conteúdo
 
