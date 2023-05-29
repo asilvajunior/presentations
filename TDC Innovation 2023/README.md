@@ -23,6 +23,8 @@
 ### 🔗 Links
 
 - [Síndrome de FOMO: Fear of Missing Out - Artigo do Unicast Cloud](https://unicast.com.br/posts/sindrome-de-fomo-fear-of-missing-out/)
+- [Kubicast #95 - FOMGO - Fear of missing Gomex (Youtube)](https://www.youtube.com/watch?v=HIe4yJ6jz7U)
+- [Kubicast #95 - FOMGO - Fear of missing Gomex (Spotify)](https://open.spotify.com/episode/3rq8e4JpMXyylqEkImKHtL?si=b74921e7060f4ebe)
 
 #
 
