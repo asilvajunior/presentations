@@ -20,7 +20,7 @@
 
 ### 💬 Conteúdo
 
-- 💻 [Slides]() 
+- 💻 [Slides](RECDEV%20Summit%202023%20-%20Boas%20praticas%20para%20projetos%20de%20Terraform/RECDEV%20Summit%202023%20-%20Boas%20praticas%20para%20projetos%20de%20Terraform.pdf) 
 
 ### 🔗 Links
 
