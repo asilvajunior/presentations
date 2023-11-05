@@ -19,6 +19,6 @@
 ### 💬 Conteúdo
 
 - 💻 [Slides]()
-- 👨‍💻 [Código](azure-terraform-infracost)
+- 👨‍💻 [Código](https://github.com/asilvajunior/azure-terraform-infracost)
 
 ### 🔗 Links
