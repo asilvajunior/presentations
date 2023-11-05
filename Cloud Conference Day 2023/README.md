@@ -32,7 +32,6 @@
 - [Como usar o TFLint para verificar erros em seu código Terraform](https://unicast.com.br/posts/como-usar-o-tflint-para-verificar-erros-em-seu-codigo-terraform-azure/)
 - [O que é Terraform null_resource e como usá-lo?](https://unicast.com.br/posts/o-que-e-terraform-null-resource-e-como-usalo/)
 - [Trabalhando com Workspaces no Terraform [Azure]](https://unicast.com.br/posts/trabalhando-com-workspaces-no-terraform-azure/)
-- [Trabalhando com provisioners no Terraform [Azure]](https://unicast.com.br/posts/trabalhando-com-provisioners-no-terraform-azure/)
 - [Como organizar projetos de Terraform [Azure]](https://unicast.com.br/posts/como-organizar-projetos-de-terraform-azure/)
 - [10 Boas Praticas para projetos de Terraform](https://unicast.com.br/posts/10-boas-praticas-para-projetos-terraform/)
 - [Trabalhando com múltiplos ambientes no Terraform [Azure]](https://unicast.com.br/posts/trabalhando-com-multiplos-ambientes-no-terraform-azure/)
