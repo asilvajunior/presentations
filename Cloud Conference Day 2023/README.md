@@ -18,7 +18,7 @@
 
 ### 💬 Conteúdo
 
-- 💻 [Slides]()
+- 💻 [Slides](/Cloud%20Conference%20Day%202023/CCD%20-%20Automatizando%20o%20gerenciamento%20de%20custos%20em%20nuvem%20com%20Terraform.pdf)
 - 👨‍💻 [Código](https://github.com/asilvajunior/azure-terraform-infracost)
 
 ### 🔗 Links
